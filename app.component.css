@@ -1,0 +1,27 @@
+.example-spacer {
+    flex: auto ;
+  }
+mat-sidenav{
+/* margin: 16px; */
+width: 300px;
+border-right: none;
+/* border-radius:  5px; ; */
+height: 100%;
+padding-top: 6px;
+text-align: center;
+background-color: #101A33;
+color: aliceblue;
+overflow-y:scroll;
+}
+
+mat-sidenav-container{
+    height: calc(100vh - 65px);
+}
+.tool{
+  width: 95%;
+  height: 80%;
+}
+
+
+
+  
